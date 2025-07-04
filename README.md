@@ -28,7 +28,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=imSubhro&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=imSubhro&icon=2&color=3)](https://visitcount.itsvg.in)
+![Visitors](https://komarev.com/ghpvc/?username=imSubhro&label=Profile%20views&color=0e75b6&style=flat)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
