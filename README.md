@@ -85,10 +85,19 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imSubhro&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+
+## 📊 GitHub Stats
+
+<!-- Profile Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imSubhro&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
+
+<!-- Streak Stats -->
 ![](https://nirzak-streak-stats.vercel.app/?user=imSubhro&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imSubhro&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imSubhro&theme=gruvbox&hide_border=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imSubhro&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
