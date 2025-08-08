@@ -95,8 +95,7 @@
 <!-- Streak Stats -->
 ![](https://nirzak-streak-stats.vercel.app/?user=imSubhro&theme=gruvbox&hide_border=false)<br/>
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imSubhro&theme=gruvbox&hide_border=false&layout=compact)
+
 
 
 ## 🏆 GitHub Trophies
