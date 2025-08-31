@@ -1,0 +1,52 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4.2.0
+
+      - name: Generate Snake GIF and SVGs
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+          
+          outputs: |
+            dist/github-snake.svg                   
+            dist/github-snake-dark.svg?palette=github-dark  
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9  
+
+      - name: Check generated files
+        run: |
+          if [ ! -d "dist" ]; then
+            echo "Directory 'dist' does not exist."
+            exit 1
+          fi
+          ls -la dist  # List files in the 'dist' directory for debugging
+
+      - name: Git Status
+        run: git status
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.8.0  
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
