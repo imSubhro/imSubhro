@@ -17,7 +17,7 @@ jobs:
         uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: imSubhro
 
           
           outputs: |
@@ -40,7 +40,7 @@ jobs:
         uses: ad-m/github-push-action@v0.8.0  
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
 
       - name: Deploy to GitHub Pages
