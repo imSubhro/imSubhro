@@ -18,12 +18,15 @@
 - 💬 Ask me about **Cricket** or **Tech** anytime!
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/just.subhro) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhro-mohanta) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/subhro_vk) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhromohanta16@gmail.com)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/mohanta_subhro04)
+## 🗨️ Connect with me:
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://imsubhro.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/just.subhro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhro-mohanta)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/subhro_vk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhromohanta16@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mohanta_subhro04)
+
+
 
 ## 💻 Tech Stack:
 <div align="center">
@@ -113,7 +116,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=imSubhro&theme=gruvbox&hide_border=false)<br/>
 
 
-
+- Here’s a fun representation of my GitHub contributions!
+![snake gif](https://github.com/Rana718/Rana718/blob/output/github-snake-dark.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imSubhro&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
