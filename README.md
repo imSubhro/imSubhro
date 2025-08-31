@@ -1,10 +1,21 @@
 <h1 align="center">Hey 👋, Welcome to my Github 🧑‍💻</h1>
-<h3 align="center">I'm a undergrad currently pursuing Btech in Computer Science Engineering at Bengal Institute of Technology📍Kolkata, India</h3>
+<h3 align="center">I'm a undergrad Btech in Computer Science Engineering at Bengal Institute of Technology</h3>
 
 
 
-# 💫 About Me:
-🙋I'm Subhro Mohanta or Sonu 😁 from 📍India, Kolkata<br><br> -💬 Can Ask me about MERN Stack , AI & ML<br> -📈 Currently learning Artificial Intelligence and Machine learning<br> -📨 Fire me a mail to connect ➡️ subhromohanta16@gmail.com<br> -⚡ Fun fact ~ I am foodie 🍕 loves to travel ✈️ loves to play Cricket 🏏<br> -💬 Ask me about Cricket<br>
+## 🚀 About Me
+
+```
+🌍  Based in Kolkata, India
+🎓  Pursuing B.Tech in Computer Science & Engineering
+💡  Passionate about Full-Stack Development & AI/ML
+```
+
+### Quick Facts
+- 🔭 Currently diving deep into **AI & Machine Learning**
+- 🌱 Learning **MERN Stack** and **Cloud Technologies**
+- ⚡ Fun fact: Foodie 🍕 | Travel Enthusiast ✈️ | Cricket Lover 🏏
+- 💬 Ask me about **Cricket** or **Tech** anytime!
 
 
 ## 🌐 Socials:
