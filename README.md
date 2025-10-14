@@ -94,6 +94,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="github actions logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo" />
