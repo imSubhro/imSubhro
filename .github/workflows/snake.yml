@@ -2,28 +2,32 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Allows manual trigger
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4.2.0
+        uses: actions/checkout@v4
 
-      - name: Generate Snake GIF and SVGs
-        uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: imSubhro
-
-          
           outputs: |
-            dist/github-snake.svg                   
-            dist/github-snake-dark.svg?palette=github-dark  
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9  
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Check generated files
         run: |
@@ -31,8 +35,14 @@ jobs:
             echo "Directory 'dist' does not exist."
             exit 1
           fi
-          ls -la dist  # List files in the 'dist' directory for debugging
+          echo "Generated files:"
+          ls -la dist
 
-      - name: Git Status
-        run: git status
-
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
