@@ -66,11 +66,8 @@ const subhro = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imSubhro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imSubhro&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9"/>
-</div>
 
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imSubhro&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak Stats"/>
 </div>
 
@@ -80,13 +77,6 @@ const subhro = {
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imSubhro&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 🤝 Connect With Me
 
