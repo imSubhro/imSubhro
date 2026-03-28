@@ -43,19 +43,19 @@ const subhro = {
 # 🚀 Tech Arsenal
 
 ## 🧠 Languages  
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,js,go,php,html,css&perline=12)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,js,php,html,css&perline=12)
 
 ## ⚛️ Frameworks / Libraries   
 ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,redux,tailwind,bootstrap,vite,nodejs,expressjs,flask,fastapi&perline=12)
 
 ## 🗄️ Databases & ORMs  
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgresql,mysql,supabase&perline=12)
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgresql,prisma,mysql,redis,supabase&perline=12)
 
 ## 🤖 AI/ML  
 ![AI/ML](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,numpy,pandas&perline=12)
 
 ## ⚙️ DevOps / Cloud 
-![DevOps](https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,nginx,linux,bash,postman,aws,vercel,render&perline=12)
+![DevOps](https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,kubernetes,helm,argocd,grafana,prometheus,nginx,linux,bash,postman,aws,vercel,render&perline=12)
 
 ## 🎨 Design Tools  
 ![Design](https://go-skill-icons.vercel.app/api/icons?i=figma,canva&perline=12)
