@@ -46,19 +46,19 @@ const subhro = {
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,js,php,html,css&perline=12)
 
 ## ⚛️ Frameworks / Libraries   
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,redux,tailwind,bootstrap,vite,nodejs,expressjs,flask,fastapi&perline=12)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,redux,tailwind,bootstrap,nodejs,expressjs,flask,fastapi&perline=12)
 
 ## 🗄️ Databases & ORMs  
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgresql,prisma,mysql,redis,supabase&perline=12)
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgresql,prisma,mysql,sqlite,redis,supabase&perline=12)
 
 ## 🤖 AI/ML  
 ![AI/ML](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,numpy,pandas&perline=12)
 
 ## ⚙️ DevOps / Cloud 
-![DevOps](https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,kubernetes,helm,argocd,grafana,prometheus,nginx,linux,bash,postman,aws,vercel,render&perline=12)
+![DevOps](https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,jenkins,kubernetes,helm,argocd,grafana,prometheus,terraform,nginx,cloudflare,linux,bash,aws,vercel,render&perline=12)
 
-## 🎨 Design Tools  
-![Design](https://go-skill-icons.vercel.app/api/icons?i=figma,canva&perline=12)
+## 🎨 Tools  
+![Design](https://go-skill-icons.vercel.app/api/icons?i=npm,git,wsl,vite,sentry,postman,figma,canva&perline=12)
 
 
 ---
